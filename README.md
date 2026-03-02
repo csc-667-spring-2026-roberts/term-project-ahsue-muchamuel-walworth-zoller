@@ -7,7 +7,7 @@ CSC 667 Term Project — Spring 2026
 | Name | GitHub | Email |
 |------|--------|-------|
 | Alex Muchamuel | @alexmuchamuel | 924134234@sfsu.edu |
-| Member 2 | @username | email@sfsu.edu |
+| Eric Ahsue | @Jasuv | 922711514@sfsu.edu |
 | Member 3 | @username | email@sfsu.edu |
 | Member 4 | @username | email@sfsu.edu |
 

@@ -5,7 +5,7 @@ import homeRoutes from "./routes/home.js";
 import loggingMiddleware from "./middleware/logging.js";
 
 const app = express();
-const PORT = process.env.PORT ?parseInt(process.env.PORT) : 3000;
+const PORT = process.env.PORT ? parseInt(process.env.PORT) : 3000;
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 //--- Middleware ---
 app.use(express.json()); // parse JSON bodies
@@ -18,5 +18,5 @@ app.use("/", homeRoutes);
 
 // --- Start ---
 app.listen(PORT, () => {
-console.log(`Server running on http:localhost:${PORT}`);
+  console.log(`Server running on http:localhost:${String(PORT)}`);
 });
