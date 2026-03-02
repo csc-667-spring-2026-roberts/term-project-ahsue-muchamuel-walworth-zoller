@@ -9,7 +9,7 @@ CSC 667 Term Project — Spring 2026
 | Alex Muchamuel | @alexmuchamuel | 924134234@sfsu.edu |
 | Eric Ahsue | @Jasuv | 922711514@sfsu.edu |
 | Grady Walworth | @WalrusIII | wwalworth@sfsu.edu |
-| Member 4 | @username | email@sfsu.edu |
+| Sophia Zoller | @Flowermoose | szoller@sfsu.edu |
 
 ## Setup
 
