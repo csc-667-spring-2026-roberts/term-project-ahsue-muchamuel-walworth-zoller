@@ -1,4 +1,4 @@
-# Team Name — Game Name
+# Team Name — Skip-Bo!
 
 CSC 667 Term Project — Spring 2026
 
@@ -6,10 +6,10 @@ CSC 667 Term Project — Spring 2026
 
 | Name | GitHub | Email |
 |------|--------|-------|
-| Member 1 | @username | email@sfsu.edu |
-| Member 2 | @username | email@sfsu.edu |
-| Member 3 | @username | email@sfsu.edu |
-| Member 4 | @username | email@sfsu.edu |
+| Alex Muchamuel | @alexmuchamuel | 924134234@sfsu.edu |
+| Eric Ahsue | @Jasuv | 922711514@sfsu.edu |
+| Grady Walworth | @WalrusIII | wwalworth@sfsu.edu |
+| Sophia Zoller | @Flowermoose | szoller@sfsu.edu |
 
 ## Setup
 
