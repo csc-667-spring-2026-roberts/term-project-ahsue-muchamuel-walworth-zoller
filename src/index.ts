@@ -2,6 +2,7 @@ import express from "express";
 import path from "path";
 import { fileURLToPath } from "url";
 import homeRoutes from "./routes/home.js";
+import testRoutes from "./routes/test.js";
 import loggingMiddleware from "./middleware/logging.js";
 
 const app = express();
@@ -14,6 +15,7 @@ app.use(express.static(path.join(__dirname, "..", "public"))); // serve static f
 // --- Logging (we'll extract this to middleware/ later) ---
 app.use(loggingMiddleware);
 app.use("/", homeRoutes);
+app.use("/test", testRoutes);
 // --- Routes ---
 
 // --- Start ---
